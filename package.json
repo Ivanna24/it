@@ -1,7 +1,7 @@
 {
-    "name": "it",
+    "name": "@iptiq/it",
     "description": "A testing framework for node",
-    "version": "1.1.1-2",
+    "version": "1.1.1-1",
     "keywords": [
         "testing",
         "test",
